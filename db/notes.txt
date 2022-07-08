@@ -1,0 +1,14 @@
+STR.db
+OBJ.db
+
+str would be unseparated strings, access to them will be by {byteOffset, byteLength}
+
+each server will have basic server info as well as players
+player will link to {
+    startScore,
+    endScore,
+    scoreChanges: []
+    name,
+    tankName,
+    team
+}
