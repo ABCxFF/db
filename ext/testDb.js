@@ -6,19 +6,25 @@ db.update([
         meta: {
             code: "vultr-sgp-m2m",
             host: "f6jklqqdgr0l0kbm.uvwx.xyz:5000",
-            mspt: 4.36,
+            mspt: 5,
             clients: 5,
             online: true,
-            uptime: 524.891,
+            uptime: 548.891,
         },
         players: [
             {
-                id: 400,
+                id: 401,
                 name: "abc",
-                tankName: "Twin",
-                score: 123.4,
-                teamColor: 5,
-                uptimeRn: 524.891   
+                tankName: "Ksss",
+                score: 122.4,
+                teamColor: 5 
+            },
+            {
+                id: 4012,
+                name: "abc",
+                tankName: "K",
+                score: 122.4,
+                teamColor: 5 
             }
         ]
     }
