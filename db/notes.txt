@@ -5,10 +5,15 @@ str would be unseparated strings, access to them will be by {byteOffset, byteLen
 
 each server will have basic server info as well as players
 player will link to {
-    startScore,
-    endScore,
-    scoreChanges: []
+    id,
     name,
+    teamColor
     tankName,
-    team
+    firstSeen, (uptime)
+    lastSeen, (uptime)
+    lastSeenScore (endScore),
+    // nvm this stuff
+    // startScore,
+    // scoreChangeCount (for the below)
+    // scoreChanges: <f32 uptime, f32 score>[]
 }
