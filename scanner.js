@@ -13,6 +13,8 @@ const poll = async () => {
         if (code.endsWith('4t')) return false;
         if (code.endsWith('3t')) return false;
         if (code.endsWith('2t')) return false;
+        if (code.endsWith('2m')) return false;
+        if (code === 'z') return false;
         return true;
     }).map(async raw => {
         const meta = {
@@ -33,4 +35,4 @@ const poll = async () => {
 }
 
 poll();
-setInterval(poll, 2 * 60 * 1000);
+setInterval(poll, 3 * 60 * 1000);
