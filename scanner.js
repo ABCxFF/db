@@ -7,7 +7,14 @@ const poll = async () => {
     
     const serverStatus = await fetchServers();
 
-    const servers = await Promise.all(serverStatus.filter(e => e.clients).map(async raw => {
+    const servers = await Promise.all(serverStatus.filter(e => e.clients).filter(s => {
+        const [vps, region, code] = s.code.split('-');
+        if (code === '2b') return false;
+        if (code.endsWith('4t')) return false;
+        if (code.endsWith('3t')) return false;
+        if (code.endsWith('2t')) return false;
+        return true;
+    }).map(async raw => {
         const meta = {
             uptime: raw.uptime,
             mspt: raw.mspt,
@@ -26,4 +33,4 @@ const poll = async () => {
 }
 
 poll();
-setInterval(poll, 1 * 60 * 1000);
+setInterval(poll, 2 * 60 * 1000);
