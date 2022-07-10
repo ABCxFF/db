@@ -1,0 +1,2394 @@
+{
+  "vcx": [
+    {
+      "uptime": 17781.03125,
+      "mspt": 4.856888294219971,
+      "start": "23:43:02",
+      "code": "vultr-sgp-mf",
+      "label": "[Vultr] Maze - Asia",
+      "playerCount": 272
+    },
+    {
+      "uptime": 13917.595703125,
+      "mspt": 12.632309913635254,
+      "start": "01:58:00",
+      "code": "vultr-sgp-mf",
+      "label": "[Vultr] Maze - Asia",
+      "playerCount": 204
+    },
+    {
+      "uptime": 18029.8515625,
+      "mspt": 3.1537628173828125,
+      "start": "05:51:59",
+      "code": "vultr-sgp-f",
+      "label": "[Vultr] FFA - Asia",
+      "playerCount": 536
+    },
+    {
+      "uptime": 6776.14794921875,
+      "mspt": 1.9371428489685059,
+      "start": "10:58:48",
+      "code": "vultr-sgp-f",
+      "label": "[Vultr] FFA - Asia",
+      "playerCount": 118
+    },
+    {
+      "uptime": 3869.298095703125,
+      "mspt": 1.0313334465026855,
+      "start": "13:03:07",
+      "code": "vultr-sgp-f",
+      "label": "[Vultr] FFA - Asia",
+      "playerCount": 22
+    },
+    {
+      "uptime": 3540.409912109375,
+      "mspt": 1.848461627960205,
+      "start": "13:54:07",
+      "code": "vultr-sgp-mf",
+      "label": "[Vultr] Maze - Asia",
+      "playerCount": 15
+    },
+    {
+      "uptime": 1386.31396484375,
+      "mspt": 1.1299999952316284,
+      "start": "15:16:48",
+      "code": "vultr-sgp-f",
+      "label": "[Vultr] FFA - Asia",
+      "playerCount": 1
+    },
+    {
+      "uptime": 1294.5689697265625,
+      "mspt": 1.5816665887832642,
+      "start": "16:01:32",
+      "code": "vultr-sgp-f",
+      "label": "[Vultr] FFA - Asia",
+      "playerCount": 13
+    }
+  ],
+  "wc": [
+    {
+      "uptime": 591.781982421875,
+      "mspt": 18.229999542236328,
+      "start": "23:43:02",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 10
+    },
+    {
+      "uptime": 474.7019958496094,
+      "mspt": 13.960000038146973,
+      "start": "23:44:27",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 19
+    },
+    {
+      "uptime": 585.7969970703125,
+      "mspt": 14.744999885559082,
+      "start": "23:57:05",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 30
+    },
+    {
+      "uptime": 1103.260986328125,
+      "mspt": 13.377142906188965,
+      "start": "00:09:05",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 48
+    },
+    {
+      "uptime": 2001.258056640625,
+      "mspt": 12.279999732971191,
+      "start": "00:27:58",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 81
+    },
+    {
+      "uptime": 684.7969970703125,
+      "mspt": 15.114999771118164,
+      "start": "01:03:58",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 35
+    },
+    {
+      "uptime": 663.10498046875,
+      "mspt": 11.869999885559082,
+      "start": "01:15:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 37
+    },
+    {
+      "uptime": 638.9500122070312,
+      "mspt": 14.112500190734863,
+      "start": "01:27:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 27
+    },
+    {
+      "uptime": 692.4990234375,
+      "mspt": 11.144999504089355,
+      "start": "01:39:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 25
+    },
+    {
+      "uptime": 4815.72509765625,
+      "mspt": 19.715557098388672,
+      "start": "01:52:00",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 74
+    },
+    {
+      "uptime": 729.9210205078125,
+      "mspt": 12.282000541687012,
+      "start": "03:12:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 30
+    },
+    {
+      "uptime": 706.7670288085938,
+      "mspt": 15.132499694824219,
+      "start": "03:28:00",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 31
+    },
+    {
+      "uptime": 683.916015625,
+      "mspt": 14.054999351501465,
+      "start": "03:39:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 28
+    },
+    {
+      "uptime": 1859.06396484375,
+      "mspt": 18.879091262817383,
+      "start": "03:51:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 49
+    },
+    {
+      "uptime": 262.93701171875,
+      "mspt": 14.975000381469727,
+      "start": "04:24:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 15
+    },
+    {
+      "uptime": 2846.54296875,
+      "mspt": 19.25312614440918,
+      "start": "04:30:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 59
+    },
+    {
+      "uptime": 2644.989990234375,
+      "mspt": 19.637332916259766,
+      "start": "05:19:00",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 79
+    },
+    {
+      "uptime": 698.781005859375,
+      "mspt": 13.272500038146973,
+      "start": "06:03:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 31
+    },
+    {
+      "uptime": 1209.3800048828125,
+      "mspt": 12.282857894897461,
+      "start": "06:16:01",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 53
+    },
+    {
+      "uptime": 723.4110107421875,
+      "mspt": 8.977999687194824,
+      "start": "06:36:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 33
+    },
+    {
+      "uptime": 702.958984375,
+      "mspt": 11.09749984741211,
+      "start": "06:51:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 31
+    },
+    {
+      "uptime": 681.3469848632812,
+      "mspt": 11.895000457763672,
+      "start": "07:04:00",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 34
+    },
+    {
+      "uptime": 1212.843017578125,
+      "mspt": 12.231428146362305,
+      "start": "07:15:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 54
+    },
+    {
+      "uptime": 3121.592041015625,
+      "mspt": 16.102222442626953,
+      "start": "07:37:00",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 86
+    },
+    {
+      "uptime": 484.9639892578125,
+      "mspt": 17.413331985473633,
+      "start": "08:30:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 24
+    },
+    {
+      "uptime": 591.9420166015625,
+      "mspt": 15.119999885559082,
+      "start": "08:40:18",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 31
+    },
+    {
+      "uptime": 565.10302734375,
+      "mspt": 12.029999732971191,
+      "start": "08:52:18",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 29
+    },
+    {
+      "uptime": 2252.18408203125,
+      "mspt": 19.51785659790039,
+      "start": "09:03:59",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 73
+    },
+    {
+      "uptime": 680.7659912109375,
+      "mspt": 16.47749900817871,
+      "start": "09:43:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 25
+    },
+    {
+      "uptime": 287.0920104980469,
+      "mspt": 14.680000305175781,
+      "start": "09:55:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 17
+    },
+    {
+      "uptime": 1762.0050048828125,
+      "mspt": 16.64000129699707,
+      "start": "10:01:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 51
+    },
+    {
+      "uptime": 655.2849731445312,
+      "mspt": 17.197500228881836,
+      "start": "10:31:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 29
+    },
+    {
+      "uptime": 638.333984375,
+      "mspt": 14.987500190734863,
+      "start": "10:43:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 27
+    },
+    {
+      "uptime": 1329.239990234375,
+      "mspt": 15.698750495910645,
+      "start": "10:55:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 47
+    },
+    {
+      "uptime": 886.6929931640625,
+      "mspt": 9.915999412536621,
+      "start": "11:19:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 27
+    },
+    {
+      "uptime": 1075.218017578125,
+      "mspt": 12.96833324432373,
+      "start": "11:34:47",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 39
+    },
+    {
+      "uptime": 855.9530029296875,
+      "mspt": 11.430000305175781,
+      "start": "11:59:50",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 24
+    },
+    {
+      "uptime": 725.7869873046875,
+      "mspt": 9.315999984741211,
+      "start": "12:07:27",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 38
+    },
+    {
+      "uptime": 2245.60107421875,
+      "mspt": 12.729230880737305,
+      "start": "12:22:28",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 87
+    },
+    {
+      "uptime": 755.906005859375,
+      "mspt": 10.542000770568848,
+      "start": "13:00:07",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 40
+    },
+    {
+      "uptime": 589.8770141601562,
+      "mspt": 12.204999923706055,
+      "start": "13:15:08",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 33
+    },
+    {
+      "uptime": 565.0380249023438,
+      "mspt": 9.6875,
+      "start": "13:27:06",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 29
+    },
+    {
+      "uptime": 3245.498046875,
+      "mspt": 11.694210052490234,
+      "start": "13:39:07",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 112
+    },
+    {
+      "uptime": 593.6279907226562,
+      "mspt": 11.178000450134277,
+      "start": "14:36:07",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 36
+    },
+    {
+      "uptime": 573.4829711914062,
+      "mspt": 12.805000305175781,
+      "start": "14:48:36",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 31
+    },
+    {
+      "uptime": 188.17999267578125,
+      "mspt": 7.53000020980835,
+      "start": "15:00:36",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 10
+    },
+    {
+      "uptime": 586.447998046875,
+      "mspt": 8.412500381469727,
+      "start": "15:06:36",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 26
+    },
+    {
+      "uptime": 700.4990234375,
+      "mspt": 12.642000198364258,
+      "start": "15:16:48",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 38
+    },
+    {
+      "uptime": 782.718017578125,
+      "mspt": 13.838000297546387,
+      "start": "15:52:29",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 40
+    },
+    {
+      "uptime": 504.5710144042969,
+      "mspt": 14.473333358764648,
+      "start": "16:07:29",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 23
+    },
+    {
+      "uptime": 106.67400360107422,
+      "mspt": 11.430000305175781,
+      "start": "16:16:29",
+      "code": "wsi-kci-m2a",
+      "label": "[WSI] Assault - USA",
+      "playerCount": 10
+    }
+  ],
+  "we": [
+    {
+      "uptime": 26088.84375,
+      "mspt": 6.6527276039123535,
+      "start": "23:43:02",
+      "code": "wsi-kci-md",
+      "label": "[WSI] Maze Duos - USA",
+      "playerCount": 79
+    },
+    {
+      "uptime": 5854.44921875,
+      "mspt": 3.057647228240967,
+      "start": "00:18:17",
+      "code": "wsi-kci-d",
+      "label": "[WSI] Duos - USA",
+      "playerCount": 185
+    },
+    {
+      "uptime": 21032.740234375,
+      "mspt": 4.371539115905762,
+      "start": "01:58:00",
+      "code": "wsi-kci-md",
+      "label": "[WSI] Maze Duos - USA",
+      "playerCount": 707
+    },
+    {
+      "uptime": 21442.54296875,
+      "mspt": 4.446917533874512,
+      "start": "07:49:00",
+      "code": "wsi-kci-md",
+      "label": "[WSI] Maze Duos - USA",
+      "playerCount": 668
+    },
+    {
+      "uptime": 9023.8056640625,
+      "mspt": 2.396444320678711,
+      "start": "13:48:07",
+      "code": "wsi-kci-d",
+      "label": "[WSI] Duos - USA",
+      "playerCount": 235
+    }
+  ],
+  "ha": [
+    {
+      "uptime": 15840.8876953125,
+      "mspt": 9.042381286621094,
+      "start": "23:43:02",
+      "code": "hetzner-fsn-mf",
+      "label": "[Hetzner] Maze - Europe",
+      "playerCount": 375
+    },
+    {
+      "uptime": 34037.01953125,
+      "mspt": 10.837727546691895,
+      "start": "02:51:59",
+      "code": "hetzner-fsn-mf",
+      "label": "[Hetzner] Maze - Europe",
+      "playerCount": 1167
+    },
+    {
+      "uptime": 14391.3017578125,
+      "mspt": 12.71826457977295,
+      "start": "12:19:27",
+      "code": "hetzner-fsn-mf",
+      "label": "[Hetzner] Maze - Europe",
+      "playerCount": 501
+    }
+  ],
+  "wa": [
+    {
+      "uptime": 19243.650390625,
+      "mspt": 4.781639099121094,
+      "start": "23:43:02",
+      "code": "wsi-kci-f",
+      "label": "[WSI] FFA - USA",
+      "playerCount": 357
+    },
+    {
+      "uptime": 14779.73828125,
+      "mspt": 2.1840250492095947,
+      "start": "02:48:59",
+      "code": "wsi-kci-f",
+      "label": "[WSI] FFA - USA",
+      "playerCount": 290
+    },
+    {
+      "uptime": 6198.2958984375,
+      "mspt": 2.2314703464508057,
+      "start": "06:58:00",
+      "code": "wsi-kci-f",
+      "label": "[WSI] FFA - USA",
+      "playerCount": 122
+    },
+    {
+      "uptime": 16286.890625,
+      "mspt": 2.7628886699676514,
+      "start": "08:40:18",
+      "code": "wsi-kci-f",
+      "label": "[WSI] FFA - USA",
+      "playerCount": 449
+    },
+    {
+      "uptime": 11074.724609375,
+      "mspt": 2.352806806564331,
+      "start": "13:12:10",
+      "code": "wsi-kci-f",
+      "label": "[WSI] FFA - USA",
+      "playerCount": 250
+    }
+  ],
+  "vb": [
+    {
+      "uptime": 18762.91796875,
+      "mspt": 4.7191667556762695,
+      "start": "23:43:02",
+      "code": "vultr-sgp-d",
+      "label": "[Vultr] Duos - Asia",
+      "playerCount": 80
+    },
+    {
+      "uptime": 18135.048828125,
+      "mspt": 4.915980815887451,
+      "start": "00:21:06",
+      "code": "vultr-sgp-s",
+      "label": "[Vultr] Squads - Asia",
+      "playerCount": 563
+    },
+    {
+      "uptime": 11632.5185546875,
+      "mspt": 3.308769464492798,
+      "start": "05:25:04",
+      "code": "vultr-sgp-o4",
+      "label": "[Vultr] Open 4TDM - Asia",
+      "playerCount": 238
+    },
+    {
+      "uptime": 9912.0029296875,
+      "mspt": 3.1330909729003906,
+      "start": "08:40:18",
+      "code": "vultr-sgp-o2",
+      "label": "[Vultr] Open 2TDM - Asia",
+      "playerCount": 231
+    },
+    {
+      "uptime": 1504.3699951171875,
+      "mspt": 2.0711112022399902,
+      "start": "11:25:48",
+      "code": "vultr-sgp-om2",
+      "label": "[Vultr] Open Maze 2TDM - Asia",
+      "playerCount": 23
+    },
+    {
+      "uptime": 5470.22314453125,
+      "mspt": 2.754138231277466,
+      "start": "12:34:27",
+      "code": "vultr-sgp-om4",
+      "label": "[Vultr] Open Maze 4TDM - Asia",
+      "playerCount": 82
+    },
+    {
+      "uptime": 4437.9970703125,
+      "mspt": 1.8423078060150146,
+      "start": "14:03:07",
+      "code": "vultr-sgp-md",
+      "label": "[Vultr] Maze Duos - Asia",
+      "playerCount": 41
+    },
+    {
+      "uptime": 3636.81103515625,
+      "mspt": 1.6738462448120117,
+      "start": "15:40:29",
+      "code": "vultr-sgp-o3",
+      "label": "[Vultr] Open 3TDM - Asia",
+      "playerCount": 21
+    }
+  ],
+  "hb": [
+    {
+      "uptime": 11038.296875,
+      "mspt": 8.562500953674316,
+      "start": "23:43:02",
+      "code": "hetzner-fsn-pm4",
+      "label": "[Hetzner] Portal Maze 4TDM - Europe",
+      "playerCount": 57
+    },
+    {
+      "uptime": 3241.300048828125,
+      "mspt": 3.190000057220459,
+      "start": "01:06:59",
+      "code": "hetzner-fsn-p4",
+      "label": "[Hetzner] Portal 4TDM - Europe",
+      "playerCount": 14
+    },
+    {
+      "uptime": 8578.6640625,
+      "mspt": 2.917234420776367,
+      "start": "02:09:59",
+      "code": "hetzner-fsn-m2",
+      "label": "[Hetzner] Maze 2TDM - Europe",
+      "playerCount": 89
+    },
+    {
+      "uptime": 42321.18359375,
+      "mspt": 10.603056907653809,
+      "start": "04:36:59",
+      "code": "hetzner-fsn-2",
+      "label": "[Hetzner] 2TDM - Europe",
+      "playerCount": 678
+    }
+  ],
+  "oc": [
+    {
+      "uptime": 22305.595703125,
+      "mspt": 43.18000030517578,
+      "start": "23:43:02",
+      "code": "ovh-sgp-2",
+      "label": "[OVH] 2TDM - Asia",
+      "playerCount": 11
+    },
+    {
+      "uptime": 10202.0146484375,
+      "mspt": 34.93193435668945,
+      "start": "00:27:58",
+      "code": "ovh-sgp-2",
+      "label": "[OVH] 2TDM - Asia",
+      "playerCount": 134
+    },
+    {
+      "uptime": 26836.47265625,
+      "mspt": 27.7000675201416,
+      "start": "03:18:59",
+      "code": "ovh-sgp-2",
+      "label": "[OVH] 2TDM - Asia",
+      "playerCount": 428
+    },
+    {
+      "uptime": 4913.375,
+      "mspt": 17.792692184448242,
+      "start": "10:46:47",
+      "code": "ovh-sgp-pm4",
+      "label": "[OVH] Portal Maze 4TDM - Asia",
+      "playerCount": 63
+    },
+    {
+      "uptime": 4512.9189453125,
+      "mspt": 6.822777271270752,
+      "start": "12:16:29",
+      "code": "ovh-sgp-p4",
+      "label": "[OVH] Portal 4TDM - Asia",
+      "playerCount": 24
+    },
+    {
+      "uptime": 9504.5107421875,
+      "mspt": 6.566521167755127,
+      "start": "13:30:09",
+      "code": "ovh-sgp-p4",
+      "label": "[OVH] Portal 4TDM - Asia",
+      "playerCount": 70
+    },
+    {
+      "uptime": 137.06199645996094,
+      "mspt": 2.2300000190734863,
+      "start": "16:04:29",
+      "code": "ovh-sgp-m4",
+      "label": "[OVH] Maze 4TDM - Asia",
+      "playerCount": 1
+    }
+  ],
+  "wb": [
+    {
+      "uptime": 34600.28515625,
+      "mspt": 7.862499713897705,
+      "start": "23:43:02",
+      "code": "wsi-kci-m2",
+      "label": "[WSI] Maze 2TDM - USA",
+      "playerCount": 20
+    },
+    {
+      "uptime": 9777.4365234375,
+      "mspt": 7.919998645782471,
+      "start": "23:57:05",
+      "code": "wsi-kci-pm4",
+      "label": "[WSI] Portal Maze 4TDM - USA",
+      "playerCount": 84
+    },
+    {
+      "uptime": 49159.11328125,
+      "mspt": 9.54866886138916,
+      "start": "02:39:58",
+      "code": "wsi-kci-4",
+      "label": "[WSI] 4TDM - USA",
+      "playerCount": 992
+    }
+  ],
+  "wd": [
+    {
+      "uptime": 7148.453125,
+      "mspt": 30.045000076293945,
+      "start": "23:43:02",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 14
+    },
+    {
+      "uptime": 5676.89404296875,
+      "mspt": 18.7734375,
+      "start": "23:51:51",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 216
+    },
+    {
+      "uptime": 6428.81494140625,
+      "mspt": 13.693333625793457,
+      "start": "01:24:59",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 177
+    },
+    {
+      "uptime": 5046.46923828125,
+      "mspt": 14.386428833007812,
+      "start": "03:15:59",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 160
+    },
+    {
+      "uptime": 10241.3681640625,
+      "mspt": 11.684212684631348,
+      "start": "04:40:01",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 247
+    },
+    {
+      "uptime": 5717.7041015625,
+      "mspt": 14.026874542236328,
+      "start": "07:30:59",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 189
+    },
+    {
+      "uptime": 6950.3232421875,
+      "mspt": 10.458499908447266,
+      "start": "09:07:30",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 167
+    },
+    {
+      "uptime": 5568.9521484375,
+      "mspt": 14.097665786743164,
+      "start": "11:07:47",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 183
+    },
+    {
+      "uptime": 5847.10302734375,
+      "mspt": 16.253938674926758,
+      "start": "12:40:28",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 189
+    },
+    {
+      "uptime": 3354.074951171875,
+      "mspt": 15.29285717010498,
+      "start": "14:18:07",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 99
+    },
+    {
+      "uptime": 3741.360107421875,
+      "mspt": 16.402143478393555,
+      "start": "15:16:48",
+      "code": "wsi-kci-1s",
+      "label": "[WSI] Siege - USA",
+      "playerCount": 91
+    }
+  ],
+  "vc": [
+    {
+      "uptime": 1384.75,
+      "mspt": 7.997142791748047,
+      "start": "23:44:27",
+      "code": "vultr-sgp-2d",
+      "label": "[Vultr] 2 Team Domination - Asia",
+      "playerCount": 36
+    },
+    {
+      "uptime": 166.51400756835938,
+      "mspt": 4.630000114440918,
+      "start": "00:09:05",
+      "code": "vultr-sgp-m4d",
+      "label": "[Vultr] 4 Team Maze Domination - Asia",
+      "playerCount": 6
+    },
+    {
+      "uptime": 392.3479919433594,
+      "mspt": 3.0866665840148926,
+      "start": "00:12:06",
+      "code": "vultr-sgp-4d",
+      "label": "[Vultr] 4 Team Domination - Asia",
+      "playerCount": 7
+    },
+    {
+      "uptime": 167.20799255371094,
+      "mspt": 1.100000023841858,
+      "start": "00:21:06",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 292.3580017089844,
+      "mspt": 2.4066665172576904,
+      "start": "00:24:06",
+      "code": "vultr-sgp-om4d",
+      "label": "[Vultr] Open 4 Team Maze Domination - Asia",
+      "playerCount": 7
+    },
+    {
+      "uptime": 715.8629760742188,
+      "mspt": 5.804000377655029,
+      "start": "00:30:58",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 33
+    },
+    {
+      "uptime": 504.427001953125,
+      "mspt": 3.1499998569488525,
+      "start": "01:06:59",
+      "code": "vultr-sgp-o2p",
+      "label": "[Vultr] Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 1928.281982421875,
+      "mspt": 10.417499542236328,
+      "start": "01:15:59",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 74
+    },
+    {
+      "uptime": 321.8009948730469,
+      "mspt": 8.109999656677246,
+      "start": "01:52:00",
+      "code": "vultr-sgp-m2d",
+      "label": "[Vultr] 2 Team Maze Domination - Asia",
+      "playerCount": 13
+    },
+    {
+      "uptime": 1369.2259521484375,
+      "mspt": 4.663749694824219,
+      "start": "01:58:00",
+      "code": "vultr-sgp-4d",
+      "label": "[Vultr] 4 Team Domination - Asia",
+      "playerCount": 35
+    },
+    {
+      "uptime": 119.87200164794922,
+      "mspt": 2.4000000953674316,
+      "start": "02:21:59",
+      "code": "vultr-sgp-o3d",
+      "label": "[Vultr] Open 3 Team Domination - Asia",
+      "playerCount": 7
+    },
+    {
+      "uptime": 550.2780151367188,
+      "mspt": 3.429999828338623,
+      "start": "02:24:59",
+      "code": "vultr-sgp-om2d",
+      "label": "[Vultr] Open 2 Team Maze Domination - Asia",
+      "playerCount": 20
+    },
+    {
+      "uptime": 347.87701416015625,
+      "mspt": 5.494999885559082,
+      "start": "02:45:59",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 534.3319702148438,
+      "mspt": 11.553333282470703,
+      "start": "03:03:59",
+      "code": "vultr-sgp-2d",
+      "label": "[Vultr] 2 Team Domination - Asia",
+      "playerCount": 26
+    },
+    {
+      "uptime": 320.1400146484375,
+      "mspt": 7.599999904632568,
+      "start": "03:12:59",
+      "code": "vultr-sgp-4d",
+      "label": "[Vultr] 4 Team Domination - Asia",
+      "playerCount": 18
+    },
+    {
+      "uptime": 291.8380126953125,
+      "mspt": 12.979999542236328,
+      "start": "04:18:59",
+      "code": "vultr-sgp-o3d",
+      "label": "[Vultr] Open 3 Team Domination - Asia",
+      "playerCount": 19
+    },
+    {
+      "uptime": 103.13400268554688,
+      "mspt": 6,
+      "start": "04:30:59",
+      "code": "vultr-sgp-4m",
+      "label": "[Vultr] 4 Team Mothership - Asia",
+      "playerCount": 3
+    },
+    {
+      "uptime": 1663.8389892578125,
+      "mspt": 7.479000091552734,
+      "start": "05:01:00",
+      "code": "vultr-sgp-m2d",
+      "label": "[Vultr] 2 Team Maze Domination - Asia",
+      "playerCount": 48
+    },
+    {
+      "uptime": 137.30099487304688,
+      "mspt": 1.9600000381469727,
+      "start": "05:30:59",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 574.1259765625,
+      "mspt": 8.505000114440918,
+      "start": "05:33:59",
+      "code": "vultr-sgp-om3d",
+      "label": "[Vultr] Open 3 Team Maze Domination - Asia",
+      "playerCount": 27
+    },
+    {
+      "uptime": 180.96499633789062,
+      "mspt": 1.350000023841858,
+      "start": "05:46:00",
+      "code": "vultr-sgp-o4d",
+      "label": "[Vultr] Open 4 Team Domination - Asia",
+      "playerCount": 7
+    },
+    {
+      "uptime": 385.7239990234375,
+      "mspt": 3.129999876022339,
+      "start": "05:55:22",
+      "code": "vultr-sgp-4m",
+      "label": "[Vultr] 4 Team Mothership - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 127.28800201416016,
+      "mspt": 1.8300000429153442,
+      "start": "06:31:00",
+      "code": "vultr-sgp-o2p",
+      "label": "[Vultr] Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 646.7239990234375,
+      "mspt": 4.510000228881836,
+      "start": "06:49:00",
+      "code": "vultr-sgp-o4d",
+      "label": "[Vultr] Open 4 Team Domination - Asia",
+      "playerCount": 23
+    },
+    {
+      "uptime": 305.093994140625,
+      "mspt": 1.6299999952316284,
+      "start": "07:01:00",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 368.87701416015625,
+      "mspt": 2.549999952316284,
+      "start": "08:09:59",
+      "code": "vultr-sgp-m2d",
+      "label": "[Vultr] 2 Team Maze Domination - Asia",
+      "playerCount": 6
+    },
+    {
+      "uptime": 308.3179931640625,
+      "mspt": 3.0799999237060547,
+      "start": "08:18:59",
+      "code": "vultr-sgp-o2d",
+      "label": "[Vultr] Open 2 Team Domination - Asia",
+      "playerCount": 5
+    },
+    {
+      "uptime": 470.8599853515625,
+      "mspt": 3.0833332538604736,
+      "start": "08:24:59",
+      "code": "vultr-sgp-o2p",
+      "label": "[Vultr] Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 134.1510009765625,
+      "mspt": 3.2300000190734863,
+      "start": "08:34:03",
+      "code": "vultr-sgp-o4d",
+      "label": "[Vultr] Open 4 Team Domination - Asia",
+      "playerCount": 6
+    },
+    {
+      "uptime": 788.6599731445312,
+      "mspt": 3.875999927520752,
+      "start": "08:37:18",
+      "code": "vultr-sgp-om3d",
+      "label": "[Vultr] Open 3 Team Maze Domination - Asia",
+      "playerCount": 24
+    },
+    {
+      "uptime": 571.31298828125,
+      "mspt": 3.6050000190734863,
+      "start": "08:55:27",
+      "code": "vultr-sgp-om3d",
+      "label": "[Vultr] Open 3 Team Maze Domination - Asia",
+      "playerCount": 11
+    },
+    {
+      "uptime": 259.89898681640625,
+      "mspt": 1.3650000095367432,
+      "start": "09:13:00",
+      "code": "vultr-sgp-o2p",
+      "label": "[Vultr] Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 322.43798828125,
+      "mspt": 2.5,
+      "start": "10:16:47",
+      "code": "vultr-sgp-om2d",
+      "label": "[Vultr] Open 2 Team Maze Domination - Asia",
+      "playerCount": 6
+    },
+    {
+      "uptime": 89.06999969482422,
+      "mspt": 4.460000038146973,
+      "start": "10:49:47",
+      "code": "vultr-sgp-o3d",
+      "label": "[Vultr] Open 3 Team Domination - Asia",
+      "playerCount": 9
+    },
+    {
+      "uptime": 728.0230102539062,
+      "mspt": 2.190000057220459,
+      "start": "10:52:47",
+      "code": "vultr-sgp-om2d",
+      "label": "[Vultr] Open 2 Team Maze Domination - Asia",
+      "playerCount": 13
+    },
+    {
+      "uptime": 428.9549865722656,
+      "mspt": 2.4200000762939453,
+      "start": "11:07:47",
+      "code": "vultr-sgp-o4d",
+      "label": "[Vultr] Open 4 Team Domination - Asia",
+      "playerCount": 12
+    },
+    {
+      "uptime": 270.49798583984375,
+      "mspt": 2.259999990463257,
+      "start": "11:16:47",
+      "code": "vultr-sgp-4m",
+      "label": "[Vultr] 4 Team Mothership - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 1651.85400390625,
+      "mspt": 2.162222146987915,
+      "start": "11:40:48",
+      "code": "vultr-sgp-om3d",
+      "label": "[Vultr] Open 3 Team Maze Domination - Asia",
+      "playerCount": 17
+    },
+    {
+      "uptime": 503.8320007324219,
+      "mspt": 1.653333306312561,
+      "start": "12:10:27",
+      "code": "vultr-sgp-o2d",
+      "label": "[Vultr] Open 2 Team Domination - Asia",
+      "playerCount": 8
+    },
+    {
+      "uptime": 425.7820129394531,
+      "mspt": 1.4833333492279053,
+      "start": "12:40:28",
+      "code": "vultr-sgp-o4d",
+      "label": "[Vultr] Open 4 Team Domination - Asia",
+      "playerCount": 3
+    },
+    {
+      "uptime": 1023.9569702148438,
+      "mspt": 2.2866666316986084,
+      "start": "12:49:28",
+      "code": "vultr-sgp-o2d",
+      "label": "[Vultr] Open 2 Team Domination - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 165.822998046875,
+      "mspt": 1.1299999952316284,
+      "start": "13:51:07",
+      "code": "vultr-sgp-om2p",
+      "label": "[Vultr] Maze Pandemic - Asia",
+      "playerCount": 2
+    },
+    {
+      "uptime": 423.5360107421875,
+      "mspt": 1.8733333349227905,
+      "start": "13:54:07",
+      "code": "vultr-sgp-4d",
+      "label": "[Vultr] 4 Team Domination - Asia",
+      "playerCount": 3
+    },
+    {
+      "uptime": 2042.873046875,
+      "mspt": 3.323333501815796,
+      "start": "14:06:07",
+      "code": "vultr-sgp-m2d",
+      "label": "[Vultr] 2 Team Maze Domination - Asia",
+      "playerCount": 29
+    },
+    {
+      "uptime": 377.8699951171875,
+      "mspt": 2.886666774749756,
+      "start": "14:39:36",
+      "code": "vultr-sgp-4m",
+      "label": "[Vultr] 4 Team Mothership - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 720.2219848632812,
+      "mspt": 1.5660001039505005,
+      "start": "15:06:36",
+      "code": "vultr-sgp-om2d",
+      "label": "[Vultr] Open 2 Team Maze Domination - Asia",
+      "playerCount": 5
+    }
+  ],
+  "wf": [
+    {
+      "uptime": 188.4429931640625,
+      "mspt": 4.099999904632568,
+      "start": "23:51:51",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 13
+    },
+    {
+      "uptime": 368.5669860839844,
+      "mspt": 2.176666736602783,
+      "start": "23:57:05",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 381.5920104980469,
+      "mspt": 4.320000171661377,
+      "start": "00:06:16",
+      "code": "wsi-kci-m2d",
+      "label": "[WSI] 2 Team Maze Domination - USA",
+      "playerCount": 16
+    },
+    {
+      "uptime": 910.708984375,
+      "mspt": 7.324999809265137,
+      "start": "00:18:17",
+      "code": "wsi-kci-m4d",
+      "label": "[WSI] 4 Team Maze Domination - USA",
+      "playerCount": 39
+    },
+    {
+      "uptime": 1437.64501953125,
+      "mspt": 2.5183334350585938,
+      "start": "00:33:59",
+      "code": "wsi-kci-om3d",
+      "label": "[WSI] Open 3 Team Maze Domination - USA",
+      "playerCount": 18
+    },
+    {
+      "uptime": 1047.8370361328125,
+      "mspt": 1.3240000009536743,
+      "start": "01:03:58",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 11
+    },
+    {
+      "uptime": 559.2930297851562,
+      "mspt": 3.6050000190734863,
+      "start": "01:21:59",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 18
+    },
+    {
+      "uptime": 140.14999389648438,
+      "mspt": 4.199999809265137,
+      "start": "01:34:00",
+      "code": "wsi-kci-o3d",
+      "label": "[WSI] Open 3 Team Domination - USA",
+      "playerCount": 5
+    },
+    {
+      "uptime": 219.03799438476562,
+      "mspt": 1.3300000429153442,
+      "start": "01:36:59",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 507.5450134277344,
+      "mspt": 5.440000057220459,
+      "start": "01:42:59",
+      "code": "wsi-kci-4d",
+      "label": "[WSI] 4 Team Domination - USA",
+      "playerCount": 21
+    },
+    {
+      "uptime": 458.89300537109375,
+      "mspt": 5.75333309173584,
+      "start": "01:52:00",
+      "code": "wsi-kci-m4d",
+      "label": "[WSI] 4 Team Maze Domination - USA",
+      "playerCount": 14
+    },
+    {
+      "uptime": 949.4650268554688,
+      "mspt": 2.1449999809265137,
+      "start": "02:01:02",
+      "code": "wsi-kci-4d",
+      "label": "[WSI] 4 Team Domination - USA",
+      "playerCount": 12
+    },
+    {
+      "uptime": 219.3769989013672,
+      "mspt": 2.4149999618530273,
+      "start": "02:18:59",
+      "code": "wsi-kci-o3d",
+      "label": "[WSI] Open 3 Team Domination - USA",
+      "playerCount": 5
+    },
+    {
+      "uptime": 453.2229919433594,
+      "mspt": 1.8833333253860474,
+      "start": "02:24:59",
+      "code": "wsi-kci-2d",
+      "label": "[WSI] 2 Team Domination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 346.6730041503906,
+      "mspt": 3.430000066757202,
+      "start": "02:42:58",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 2477.944091796875,
+      "mspt": 8.032142639160156,
+      "start": "02:51:59",
+      "code": "wsi-kci-om2d",
+      "label": "[WSI] Open 2 Team Maze Domination - USA",
+      "playerCount": 85
+    },
+    {
+      "uptime": 1311.344970703125,
+      "mspt": 3.174999952316284,
+      "start": "03:33:59",
+      "code": "wsi-kci-4d",
+      "label": "[WSI] 4 Team Domination - USA",
+      "playerCount": 19
+    },
+    {
+      "uptime": 267.51800537109375,
+      "mspt": 1.8650000095367432,
+      "start": "04:00:59",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 964.9849853515625,
+      "mspt": 3.5233335494995117,
+      "start": "04:15:59",
+      "code": "wsi-kci-om2d",
+      "label": "[WSI] Open 2 Team Maze Domination - USA",
+      "playerCount": 22
+    },
+    {
+      "uptime": 773.9910278320312,
+      "mspt": 5.122000217437744,
+      "start": "04:42:59",
+      "code": "wsi-kci-om2d",
+      "label": "[WSI] Open 2 Team Maze Domination - USA",
+      "playerCount": 24
+    },
+    {
+      "uptime": 438.8909912109375,
+      "mspt": 3.43666672706604,
+      "start": "04:58:00",
+      "code": "wsi-kci-m4d",
+      "label": "[WSI] 4 Team Maze Domination - USA",
+      "playerCount": 6
+    },
+    {
+      "uptime": 519.656005859375,
+      "mspt": 3.8500001430511475,
+      "start": "05:06:59",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 1970.262939453125,
+      "mspt": 2.449000120162964,
+      "start": "05:25:04",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 28
+    },
+    {
+      "uptime": 368.50799560546875,
+      "mspt": 0.7799999713897705,
+      "start": "06:01:19",
+      "code": "wsi-kci-o3d",
+      "label": "[WSI] Open 3 Team Domination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 695.3270263671875,
+      "mspt": 2.8550000190734863,
+      "start": "06:07:03",
+      "code": "wsi-kci-o3d",
+      "label": "[WSI] Open 3 Team Domination - USA",
+      "playerCount": 14
+    },
+    {
+      "uptime": 425.9989929199219,
+      "mspt": 3.682499885559082,
+      "start": "06:36:59",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 10
+    },
+    {
+      "uptime": 617.3740234375,
+      "mspt": 2.6649999618530273,
+      "start": "07:07:00",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 161.7100067138672,
+      "mspt": 4.03000020980835,
+      "start": "08:21:59",
+      "code": "wsi-kci-o4d",
+      "label": "[WSI] Open 4 Team Domination - USA",
+      "playerCount": 9
+    },
+    {
+      "uptime": 999.7639770507812,
+      "mspt": 4.0283331871032715,
+      "start": "08:24:59",
+      "code": "wsi-kci-om4d",
+      "label": "[WSI] Open 4 Team Maze Domination - USA",
+      "playerCount": 25
+    },
+    {
+      "uptime": 369.7770080566406,
+      "mspt": 2.863333225250244,
+      "start": "08:43:18",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 2330.306884765625,
+      "mspt": 5.287142753601074,
+      "start": "08:55:27",
+      "code": "wsi-kci-o2d",
+      "label": "[WSI] Open 2 Team Domination - USA",
+      "playerCount": 68
+    },
+    {
+      "uptime": 272.760986328125,
+      "mspt": 3.759999990463257,
+      "start": "09:38:14",
+      "code": "wsi-kci-2d",
+      "label": "[WSI] 2 Team Domination - USA",
+      "playerCount": 11
+    },
+    {
+      "uptime": 439.80999755859375,
+      "mspt": 3.1433334350585938,
+      "start": "09:46:48",
+      "code": "wsi-kci-om3d",
+      "label": "[WSI] Open 3 Team Maze Domination - USA",
+      "playerCount": 13
+    },
+    {
+      "uptime": 166.31500244140625,
+      "mspt": 5.400000095367432,
+      "start": "10:52:47",
+      "code": "wsi-kci-m4d",
+      "label": "[WSI] 4 Team Maze Domination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 422.1709899902344,
+      "mspt": 3.3966667652130127,
+      "start": "10:55:47",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 310.2569885253906,
+      "mspt": 2.8949999809265137,
+      "start": "11:04:47",
+      "code": "wsi-kci-om3d",
+      "label": "[WSI] Open 3 Team Maze Domination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 1100.14794921875,
+      "mspt": 6.297500133514404,
+      "start": "11:43:47",
+      "code": "wsi-kci-o2d",
+      "label": "[WSI] Open 2 Team Domination - USA",
+      "playerCount": 32
+    },
+    {
+      "uptime": 1238.3060302734375,
+      "mspt": 4.348571300506592,
+      "start": "12:16:29",
+      "code": "wsi-kci-om3d",
+      "label": "[WSI] Open 3 Team Maze Domination - USA",
+      "playerCount": 29
+    },
+    {
+      "uptime": 1163.529052734375,
+      "mspt": 1.9900000095367432,
+      "start": "12:54:07",
+      "code": "wsi-kci-om3d",
+      "label": "[WSI] Open 3 Team Maze Domination - USA",
+      "playerCount": 5
+    },
+    {
+      "uptime": 1412.958984375,
+      "mspt": 1.315000057220459,
+      "start": "13:15:08",
+      "code": "wsi-kci-o3d",
+      "label": "[WSI] Open 3 Team Domination - USA",
+      "playerCount": 7
+    },
+    {
+      "uptime": 53.58599853515625,
+      "mspt": 3.059999942779541,
+      "start": "13:33:07",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 230.03799438476562,
+      "mspt": 4.065000057220459,
+      "start": "14:18:07",
+      "code": "wsi-kci-om4d",
+      "label": "[WSI] Open 4 Team Maze Domination - USA",
+      "playerCount": 7
+    },
+    {
+      "uptime": 261.8380126953125,
+      "mspt": 2.2150001525878906,
+      "start": "14:30:19",
+      "code": "wsi-kci-om4d",
+      "label": "[WSI] Open 4 Team Maze Domination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 68.0199966430664,
+      "mspt": 1.1150000095367432,
+      "start": "14:36:07",
+      "code": "wsi-kci-4d",
+      "label": "[WSI] 4 Team Domination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 222.22999572753906,
+      "mspt": 1.5299999713897705,
+      "start": "14:39:36",
+      "code": "wsi-kci-4d",
+      "label": "[WSI] 4 Team Domination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 160.20199584960938,
+      "mspt": 1.7000000476837158,
+      "start": "14:45:36",
+      "code": "wsi-kci-om4d",
+      "label": "[WSI] Open 4 Team Maze Domination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 1391.1219482421875,
+      "mspt": 3.141111135482788,
+      "start": "14:48:36",
+      "code": "wsi-kci-o2d",
+      "label": "[WSI] Open 2 Team Domination - USA",
+      "playerCount": 31
+    },
+    {
+      "uptime": 190.302001953125,
+      "mspt": 1,
+      "start": "15:16:48",
+      "code": "wsi-kci-om2d",
+      "label": "[WSI] Open 2 Team Maze Domination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 905.0609741210938,
+      "mspt": 4.170000076293945,
+      "start": "15:46:31",
+      "code": "wsi-kci-om4d",
+      "label": "[WSI] Open 4 Team Maze Domination - USA",
+      "playerCount": 20
+    },
+    {
+      "uptime": 264.5849914550781,
+      "mspt": 2.180000066757202,
+      "start": "16:04:29",
+      "code": "wsi-kci-4m",
+      "label": "[WSI] 4 Team Mothership - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 38.84199905395508,
+      "mspt": 2.2300000190734863,
+      "start": "16:16:29",
+      "code": "wsi-kci-2d",
+      "label": "[WSI] 2 Team Domination - USA",
+      "playerCount": 6
+    }
+  ],
+  "hd": [
+    {
+      "uptime": 3750.820068359375,
+      "mspt": 1.513888955116272,
+      "start": "00:00:06",
+      "code": "hetzner-fsn-o3",
+      "label": "[Hetzner] Open 3TDM - Europe",
+      "playerCount": 24
+    },
+    {
+      "uptime": 624.4089965820312,
+      "mspt": 2.757499933242798,
+      "start": "00:51:59",
+      "code": "hetzner-fsn-m2a",
+      "label": "[Hetzner] Assault - Europe",
+      "playerCount": 5
+    },
+    {
+      "uptime": 4577.55517578125,
+      "mspt": 1.8272727727890015,
+      "start": "01:06:59",
+      "code": "hetzner-fsn-o3",
+      "label": "[Hetzner] Open 3TDM - Europe",
+      "playerCount": 51
+    },
+    {
+      "uptime": 3662.14697265625,
+      "mspt": 2.0376925468444824,
+      "start": "02:42:58",
+      "code": "hetzner-fsn-o3",
+      "label": "[Hetzner] Open 3TDM - Europe",
+      "playerCount": 33
+    },
+    {
+      "uptime": 11939.35546875,
+      "mspt": 4.369999885559082,
+      "start": "03:28:00",
+      "code": "hetzner-fsn-om4e",
+      "label": "[Hetzner] Elimination - Europe",
+      "playerCount": 271
+    },
+    {
+      "uptime": 3592.4189453125,
+      "mspt": 5.40500020980835,
+      "start": "07:07:00",
+      "code": "hetzner-fsn-1s",
+      "label": "[Hetzner] Siege - Europe",
+      "playerCount": 25
+    },
+    {
+      "uptime": 715.7249755859375,
+      "mspt": 3.072499990463257,
+      "start": "08:06:59",
+      "code": "hetzner-fsn-m2a",
+      "label": "[Hetzner] Assault - Europe",
+      "playerCount": 7
+    },
+    {
+      "uptime": 13370.580078125,
+      "mspt": 4.419332027435303,
+      "start": "08:34:03",
+      "code": "hetzner-fsn-s",
+      "label": "[Hetzner] Squads - Europe",
+      "playerCount": 347
+    },
+    {
+      "uptime": 6069.97021484375,
+      "mspt": 1.5711427927017212,
+      "start": "12:19:27",
+      "code": "hetzner-fsn-s",
+      "label": "[Hetzner] Squads - Europe",
+      "playerCount": 88
+    },
+    {
+      "uptime": 4485.3232421875,
+      "mspt": 1.9968000650405884,
+      "start": "14:06:07",
+      "code": "hetzner-fsn-om2",
+      "label": "[Hetzner] Open Maze 2TDM - Europe",
+      "playerCount": 61
+    }
+  ],
+  "hc": [
+    {
+      "uptime": 468.5360107421875,
+      "mspt": 1.996666669845581,
+      "start": "00:09:05",
+      "code": "hetzner-fsn-4m",
+      "label": "[Hetzner] 4 Team Mothership - Europe",
+      "playerCount": 4
+    },
+    {
+      "uptime": 422.23699951171875,
+      "mspt": 1.6333333253860474,
+      "start": "00:18:17",
+      "code": "hetzner-fsn-o2p",
+      "label": "[Hetzner] Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 564.6380004882812,
+      "mspt": 1.1449999809265137,
+      "start": "00:27:05",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 746.0449829101562,
+      "mspt": 5.769999980926514,
+      "start": "00:39:58",
+      "code": "hetzner-fsn-om2d",
+      "label": "[Hetzner] Open 2 Team Maze Domination - Europe",
+      "playerCount": 20
+    },
+    {
+      "uptime": 1440.7769775390625,
+      "mspt": 3.1649999618530273,
+      "start": "00:51:59",
+      "code": "hetzner-fsn-om3d",
+      "label": "[Hetzner] Open 3 Team Maze Domination - Europe",
+      "playerCount": 24
+    },
+    {
+      "uptime": 795.2940063476562,
+      "mspt": 4.003999710083008,
+      "start": "01:15:59",
+      "code": "hetzner-fsn-om2d",
+      "label": "[Hetzner] Open 2 Team Maze Domination - Europe",
+      "playerCount": 22
+    },
+    {
+      "uptime": 16.743000030517578,
+      "mspt": 1.659999966621399,
+      "start": "03:03:59",
+      "code": "hetzner-fsn-m4d",
+      "label": "[Hetzner] 4 Team Maze Domination - Europe",
+      "playerCount": 4
+    },
+    {
+      "uptime": 189.03700256347656,
+      "mspt": 1.7949999570846558,
+      "start": "03:06:59",
+      "code": "hetzner-fsn-om2d",
+      "label": "[Hetzner] Open 2 Team Maze Domination - Europe",
+      "playerCount": 4
+    },
+    {
+      "uptime": 258.5050048828125,
+      "mspt": 3.2249999046325684,
+      "start": "03:21:59",
+      "code": "hetzner-fsn-om3d",
+      "label": "[Hetzner] Open 3 Team Maze Domination - Europe",
+      "playerCount": 11
+    },
+    {
+      "uptime": 1714.6700439453125,
+      "mspt": 5.138000011444092,
+      "start": "03:28:00",
+      "code": "hetzner-fsn-4d",
+      "label": "[Hetzner] 4 Team Domination - Europe",
+      "playerCount": 61
+    },
+    {
+      "uptime": 925.0560302734375,
+      "mspt": 4.920000076293945,
+      "start": "04:06:59",
+      "code": "hetzner-fsn-m4d",
+      "label": "[Hetzner] 4 Team Maze Domination - Europe",
+      "playerCount": 24
+    },
+    {
+      "uptime": 211.20599365234375,
+      "mspt": 2.0799999237060547,
+      "start": "04:24:59",
+      "code": "hetzner-fsn-m2d",
+      "label": "[Hetzner] 2 Team Maze Domination - Europe",
+      "playerCount": 7
+    },
+    {
+      "uptime": 104.48699951171875,
+      "mspt": 2.2149999141693115,
+      "start": "04:30:59",
+      "code": "hetzner-fsn-o4d",
+      "label": "[Hetzner] Open 4 Team Domination - Europe",
+      "playerCount": 7
+    },
+    {
+      "uptime": 386.3420104980469,
+      "mspt": 1.4199999570846558,
+      "start": "06:07:03",
+      "code": "hetzner-fsn-o2p",
+      "label": "[Hetzner] Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 330.60400390625,
+      "mspt": 0.699999988079071,
+      "start": "06:19:02",
+      "code": "hetzner-fsn-o2p",
+      "label": "[Hetzner] Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 1534.178955078125,
+      "mspt": 3.1733334064483643,
+      "start": "07:09:59",
+      "code": "hetzner-fsn-m2d",
+      "label": "[Hetzner] 2 Team Maze Domination - Europe",
+      "playerCount": 31
+    },
+    {
+      "uptime": 450.51300048828125,
+      "mspt": 2.240000009536743,
+      "start": "07:37:00",
+      "code": "hetzner-fsn-o4d",
+      "label": "[Hetzner] Open 4 Team Domination - Europe",
+      "playerCount": 13
+    },
+    {
+      "uptime": 742.5150146484375,
+      "mspt": 0.45399999618530273,
+      "start": "07:46:00",
+      "code": "hetzner-fsn-o2p",
+      "label": "[Hetzner] Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 1546.98095703125,
+      "mspt": 3.0788888931274414,
+      "start": "08:28:00",
+      "code": "hetzner-fsn-om2d",
+      "label": "[Hetzner] Open 2 Team Maze Domination - Europe",
+      "playerCount": 26
+    },
+    {
+      "uptime": 810.9910278320312,
+      "mspt": 2.562000036239624,
+      "start": "08:58:18",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 874.2470092773438,
+      "mspt": 2.37333345413208,
+      "start": "09:13:00",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 634.760986328125,
+      "mspt": 1.8650000095367432,
+      "start": "09:38:14",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 1556.1729736328125,
+      "mspt": 4.80142879486084,
+      "start": "09:49:48",
+      "code": "hetzner-fsn-m4d",
+      "label": "[Hetzner] 4 Team Maze Domination - Europe",
+      "playerCount": 32
+    },
+    {
+      "uptime": 114.07099914550781,
+      "mspt": 2,
+      "start": "10:46:47",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 236.26499938964844,
+      "mspt": 4.679999828338623,
+      "start": "10:49:47",
+      "code": "hetzner-fsn-4m",
+      "label": "[Hetzner] 4 Team Mothership - Europe",
+      "playerCount": 4
+    },
+    {
+      "uptime": 1007.4940185546875,
+      "mspt": 3.758333444595337,
+      "start": "11:04:47",
+      "code": "hetzner-fsn-m4d",
+      "label": "[Hetzner] 4 Team Maze Domination - Europe",
+      "playerCount": 18
+    },
+    {
+      "uptime": 756.2349853515625,
+      "mspt": 2.5839998722076416,
+      "start": "11:22:47",
+      "code": "hetzner-fsn-m2d",
+      "label": "[Hetzner] 2 Team Maze Domination - Europe",
+      "playerCount": 12
+    },
+    {
+      "uptime": 330.66400146484375,
+      "mspt": 1.3600000143051147,
+      "start": "12:10:27",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 361.1789855957031,
+      "mspt": 3.073333263397217,
+      "start": "12:57:06",
+      "code": "hetzner-fsn-m2d",
+      "label": "[Hetzner] 2 Team Maze Domination - Europe",
+      "playerCount": 10
+    },
+    {
+      "uptime": 3920.512939453125,
+      "mspt": 4.2518181800842285,
+      "start": "13:09:07",
+      "code": "hetzner-fsn-om2d",
+      "label": "[Hetzner] Open 2 Team Maze Domination - Europe",
+      "playerCount": 90
+    },
+    {
+      "uptime": 821.2540283203125,
+      "mspt": 1.8960000276565552,
+      "start": "14:15:08",
+      "code": "hetzner-fsn-om2p",
+      "label": "[Hetzner] Maze Pandemic - Europe",
+      "playerCount": 2
+    },
+    {
+      "uptime": 312.3389892578125,
+      "mspt": 2.5799999237060547,
+      "start": "14:30:19",
+      "code": "hetzner-fsn-m2d",
+      "label": "[Hetzner] 2 Team Maze Domination - Europe",
+      "playerCount": 5
+    },
+    {
+      "uptime": 790.7659912109375,
+      "mspt": 2.609999895095825,
+      "start": "14:39:36",
+      "code": "hetzner-fsn-om3d",
+      "label": "[Hetzner] Open 3 Team Maze Domination - Europe",
+      "playerCount": 8
+    },
+    {
+      "uptime": 982.7410278320312,
+      "mspt": 2.0233333110809326,
+      "start": "14:54:35",
+      "code": "hetzner-fsn-om2d",
+      "label": "[Hetzner] Open 2 Team Maze Domination - Europe",
+      "playerCount": 7
+    }
+  ],
+  "ob": [
+    {
+      "uptime": 3035.448974609375,
+      "mspt": 11.96166706085205,
+      "start": "00:12:06",
+      "code": "ovh-sgp-m2a",
+      "label": "[OVH] Assault - Asia",
+      "playerCount": 115
+    },
+    {
+      "uptime": 7044.68896484375,
+      "mspt": 30.728248596191406,
+      "start": "02:36:58",
+      "code": "ovh-sgp-1s",
+      "label": "[OVH] Siege - Asia",
+      "playerCount": 220
+    },
+    {
+      "uptime": 652.531982421875,
+      "mspt": 9.237500190734863,
+      "start": "04:36:59",
+      "code": "ovh-sgp-m2a",
+      "label": "[OVH] Assault - Asia",
+      "playerCount": 24
+    },
+    {
+      "uptime": 6399.7109375,
+      "mspt": 15.575000762939453,
+      "start": "04:48:59",
+      "code": "ovh-sgp-1s",
+      "label": "[OVH] Siege - Asia",
+      "playerCount": 143
+    },
+    {
+      "uptime": 919.3369750976562,
+      "mspt": 1.959999918937683,
+      "start": "06:39:59",
+      "code": "ovh-sgp-om4e",
+      "label": "[OVH] Elimination - Asia",
+      "playerCount": 3
+    },
+    {
+      "uptime": 886.0469970703125,
+      "mspt": 2.7820000648498535,
+      "start": "07:21:59",
+      "code": "ovh-sgp-om4e",
+      "label": "[OVH] Elimination - Asia",
+      "playerCount": 3
+    },
+    {
+      "uptime": 1010.0070190429688,
+      "mspt": 8.53166675567627,
+      "start": "07:37:00",
+      "code": "ovh-sgp-m2a",
+      "label": "[OVH] Assault - Asia",
+      "playerCount": 30
+    },
+    {
+      "uptime": 146.10699462890625,
+      "mspt": 10,
+      "start": "07:55:00",
+      "code": "ovh-sgp-m2a",
+      "label": "[OVH] Assault - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 905.135986328125,
+      "mspt": 3.0349998474121094,
+      "start": "07:57:59",
+      "code": "ovh-sgp-om4e",
+      "label": "[OVH] Elimination - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 7199.41796875,
+      "mspt": 17.698291778564453,
+      "start": "08:15:59",
+      "code": "ovh-sgp-1s",
+      "label": "[OVH] Siege - Asia",
+      "playerCount": 221
+    },
+    {
+      "uptime": 569.3359985351562,
+      "mspt": 5.300000190734863,
+      "start": "10:16:47",
+      "code": "ovh-sgp-m2a",
+      "label": "[OVH] Assault - Asia",
+      "playerCount": 12
+    },
+    {
+      "uptime": 918.5059814453125,
+      "mspt": 3.0299999713897705,
+      "start": "10:28:47",
+      "code": "ovh-sgp-om4e",
+      "label": "[OVH] Elimination - Asia",
+      "playerCount": 4
+    },
+    {
+      "uptime": 3784.4541015625,
+      "mspt": 10.648420333862305,
+      "start": "10:58:48",
+      "code": "ovh-sgp-1s",
+      "label": "[OVH] Siege - Asia",
+      "playerCount": 64
+    },
+    {
+      "uptime": 4796.35302734375,
+      "mspt": 9.582592964172363,
+      "start": "12:02:08",
+      "code": "ovh-sgp-1s",
+      "label": "[OVH] Siege - Asia",
+      "playerCount": 55
+    },
+    {
+      "uptime": 1965.1710205078125,
+      "mspt": 8.466363906860352,
+      "start": "15:46:31",
+      "code": "ovh-sgp-1s",
+      "label": "[OVH] Siege - Asia",
+      "playerCount": 25
+    }
+  ],
+  "wh": [
+    {
+      "uptime": 516.9329833984375,
+      "mspt": 1.9266666173934937,
+      "start": "00:18:17",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 2177.306884765625,
+      "mspt": 1.81166672706604,
+      "start": "01:00:58",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 802.3070068359375,
+      "mspt": 1.9900000095367432,
+      "start": "02:09:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 1108.0419921875,
+      "mspt": 1.5980000495910645,
+      "start": "02:31:21",
+      "code": "wsi-kci-o2p",
+      "label": "[WSI] Pandemic - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 654.2949829101562,
+      "mspt": 2.1650002002716064,
+      "start": "02:45:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 781.0180053710938,
+      "mspt": 0.9900000095367432,
+      "start": "03:00:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 908.7509765625,
+      "mspt": 2.1500000953674316,
+      "start": "03:18:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 214.66400146484375,
+      "mspt": 1.3299999237060547,
+      "start": "04:06:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 881.4349975585938,
+      "mspt": 1.0149999856948853,
+      "start": "04:24:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 280.0679931640625,
+      "mspt": 0.7149999737739563,
+      "start": "04:40:01",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 946.8900146484375,
+      "mspt": 1.0759999752044678,
+      "start": "04:58:00",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 864.9639892578125,
+      "mspt": 2.072000026702881,
+      "start": "05:25:04",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 924.2789916992188,
+      "mspt": 1.409999966621399,
+      "start": "05:51:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 864.9180297851562,
+      "mspt": 1.9219999313354492,
+      "start": "06:12:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 801.60400390625,
+      "mspt": 1.4639999866485596,
+      "start": "06:27:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 519.9949951171875,
+      "mspt": 1,
+      "start": "07:07:00",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 895.6959838867188,
+      "mspt": 1.7360000610351562,
+      "start": "07:18:59",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 852.7529907226562,
+      "mspt": 1.3300000429153442,
+      "start": "09:32:32",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 1
+    },
+    {
+      "uptime": 880.0479736328125,
+      "mspt": 1.7419999837875366,
+      "start": "10:07:47",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 1545.8470458984375,
+      "mspt": 1.5412501096725464,
+      "start": "10:22:47",
+      "code": "wsi-kci-o2p",
+      "label": "[WSI] Pandemic - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 831.6309814453125,
+      "mspt": 2.255999803543091,
+      "start": "10:49:47",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 759.301025390625,
+      "mspt": 2.135999917984009,
+      "start": "11:04:47",
+      "code": "wsi-kci-o2p",
+      "label": "[WSI] Pandemic - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 910.7130126953125,
+      "mspt": 2.008333206176758,
+      "start": "11:19:47",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 407.1830139160156,
+      "mspt": 0.8966666460037231,
+      "start": "11:43:47",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 816.81298828125,
+      "mspt": 1.9500000476837158,
+      "start": "12:13:27",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 848.531005859375,
+      "mspt": 1.31333327293396,
+      "start": "12:43:28",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 801.8779907226562,
+      "mspt": 1.8179999589920044,
+      "start": "13:18:07",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 917.5800170898438,
+      "mspt": 1.555999994277954,
+      "start": "13:33:07",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 3
+    },
+    {
+      "uptime": 1569.3759765625,
+      "mspt": 1.4242857694625854,
+      "start": "13:54:07",
+      "code": "wsi-kci-o2p",
+      "label": "[WSI] Pandemic - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 837.6599731445312,
+      "mspt": 1.6160000562667847,
+      "start": "14:18:07",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 804.4130249023438,
+      "mspt": 2.383333444595337,
+      "start": "14:33:07",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 4
+    },
+    {
+      "uptime": 1354.2459716796875,
+      "mspt": 1.3866666555404663,
+      "start": "14:48:36",
+      "code": "wsi-kci-o2p",
+      "label": "[WSI] Pandemic - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 792.6900024414062,
+      "mspt": 1.8600000143051147,
+      "start": "15:40:29",
+      "code": "wsi-kci-om4e",
+      "label": "[WSI] Elimination - USA",
+      "playerCount": 2
+    },
+    {
+      "uptime": 970.666015625,
+      "mspt": 0.9799999594688416,
+      "start": "16:01:32",
+      "code": "wsi-kci-o2p",
+      "label": "[WSI] Pandemic - USA",
+      "playerCount": 2
+    }
+  ]
+}
