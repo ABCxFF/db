@@ -15,6 +15,8 @@ const poll = async () => {
         if (code.endsWith('2t')) return false;
         if (code.endsWith('2m')) return false;
         if (code === 'z') return false;
+        // if (s.tag === 'oc') return false;
+        // if (s.tag === 'wc') return false;
         return true;
     }).map(async raw => {
         const meta = {

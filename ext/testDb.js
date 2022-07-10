@@ -30,4 +30,4 @@ const db = require('../lib/db');
 //     }
 // ])
 
-db.log();
+console.log(JSON.stringify(db.dump(), null, 2));
