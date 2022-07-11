@@ -1,5 +1,3 @@
 .DS_Store
 package-lock.json
 node_modules/
-config.js
-pow_solver.cpp
