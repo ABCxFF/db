@@ -109,3 +109,11 @@ docker build .
 
 docker start
 ```
+
+## Credits
+
+- Thank you to [Altanis](https://github.com/CoderSudaWuda) for preliminaries on the socket interface, as well as for providing servers to host recaptcha solvers.
+
+- Thank you to [bird](https://github.com/lolbird) for running the bot for more than 80% of its lifetime (he saved the project).
+
+- Thank you to CX for being the dev of arras
