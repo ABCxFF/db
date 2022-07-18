@@ -116,4 +116,4 @@ docker start
 
 - Thank you to [bird](https://github.com/lolbird) for running the bot for more than 80% of its lifetime (he saved the project).
 
-- Thank you to CX for being the dev of arras
+- Thank you to [cx88](https://github.com/CX88) for being the developer of arras
