@@ -93,6 +93,8 @@ interface PlayerData {
 
 ## Executing
 
+> Be warned, the headless bot code is now outdated as of July 18th - use at your own risk
+
 After putting your CaptchaV3Solver™ API_TOKEN into config.js, see below
 
 ### Standalone
